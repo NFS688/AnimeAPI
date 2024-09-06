@@ -43,7 +43,7 @@ const (
 	GPT4oURL = lolimiURL + "/api/4o/gpt4o?key=%s&msg=%s"
 	// GPT4oBotName ...
 	// TODO 换个更好的名字
-	GPT4oBotName = "GPT4o"
+	GPT4oBotName = "GPT4o1"
 
 	// 带记忆 POST 请求专区
 
@@ -51,7 +51,7 @@ const (
 	C4oURL = lolimiURL + "/api/c4o/c?key=%s"
 	// C4oBotName ...
 	// TODO 换个更好的名字
-	C4oBotName = "GPT4o"
+	C4oBotName = "GPT4o2"
 )
 
 // NewLolimiAi ...
